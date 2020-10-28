@@ -1,3 +1,3 @@
 # A311 - Principe des systèmes d'exploitations
 
-This is the Readme - to complete.
+Cours, TDs et corrections du module A311.
